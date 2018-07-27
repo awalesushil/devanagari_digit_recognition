@@ -14,5 +14,5 @@ A neural network to recognize handwritten Devanagari digits based on the impleme
  
  # Performance
  
-  The network achieved a performance of score of 96%.
+  The network achieved a performance score of 96%.
  
